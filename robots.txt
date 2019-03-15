@@ -1,0 +1,1 @@
+//Funciona como um filtro para os robôs dos sites de busca e faz com que os webmasters controlem permissões de acesso a determinadas páginas ou pastas dos sites. O robots.txt controla qual informação de um site deve ou não deve ser indexada pelos sites de busca. A sintaxe do arquivo é bem simples, e deve ser colocada pelo webmaster responsável pelo site na raiz da hospedagem.

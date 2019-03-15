@@ -1,6 +1,6 @@
 # Web-crawler
-
-Esse 'projeto' é Web crawler baseado na coleta de dados especificos do site da Kabum, <b> ainda em desenvolvimento </b> e de caráter básico para entendimento de como fazer a leitura e indexação de dados e sites.
+//incompleto
+Esse 'projeto' é Web crawler <b> ainda em desenvolvimento </b> e de caráter básico para entendimento de como fazer a leitura e indexação de dados e sites.
 <br>
 <br>
 >
